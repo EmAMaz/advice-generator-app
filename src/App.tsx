@@ -25,7 +25,7 @@ function App() {
   return (
     <>
       <div className="bg-[#202632] h-screen w-screen flex justify-center items-center">
-        <div className="bg-[#313a49] w-1/4 h-min text-center p-14 rounded-2xl relative">
+        <div className="bg-[#313a49] w-5/6 sm:max-w-96 h-min text-center p-14 rounded-2xl relative">
           <div className="overflow-hidden">
             <p className="text-xs text-[#4dde9a] tracking-[0.2em] select-none">
               ADVICE #117
